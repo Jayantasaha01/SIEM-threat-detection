@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 from flask import Flask, render_template_string
-import json
-import os
+import json, os, subprocess, time
+from parser import parse_logs
+from analyzer import detect_threats
 
 app = Flask(__name__)
 
@@ -18,7 +19,7 @@ dashboard_html = """
     </style>
 </head>
 <body>
-    <h1>SIEM Security Events (Auto‑Refreshing)</h1>
+    <h1>SIEM Security Events (Auto-Refreshing)</h1>
     {% if events %}
         {% for e in events %}
             <div class=\"alert\">
@@ -44,4 +45,15 @@ def home():
     return render_template_string(dashboard_html, events=events)
 
 if __name__ == "__main__":
+    # Start collector in the background
+    collector_process = subprocess.Popen(["python3", "collector.py"])
+    time.sleep(2)  # Give collector time to generate logs
+
+    # Parse and analyze logs
+    logs = parse_logs("logs/sample_logs.json")
+    events = detect_threats(logs)
+    with open("events.json", "w") as f:
+        json.dump(events, f, indent=2)
+
+    # Start Flask dashboard
     app.run(host="0.0.0.0", port=5000, debug=True)
