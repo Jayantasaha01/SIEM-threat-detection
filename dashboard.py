@@ -1,20 +1,20 @@
 #!/usr/bin/env python3
-from flask import Flask, render_template_string, redirect, url_for
-import json, os, subprocess, time, signal
+from flask import Flask, render_template_string
+import json, os, subprocess, time
 from parser import parse_logs
 from analyzer import detect_threats
 from datetime import datetime
 
 app = Flask(__name__)
-
 collector_process = None
+STOP_FILE = "collector.stop"
 
 dashboard_html = """
 <!DOCTYPE html>
 <html>
 <head>
     <title>Mini SIEM Dashboard</title>
-    <meta http-equiv="refresh" content="5"> <!-- Auto-refresh every 5 seconds -->
+    <meta http-equiv="refresh" content="5">
     <style>
         body { font-family: Arial; margin: 40px; }
         .alert { background: #ffdddd; padding: 10px; border-left: 5px solid red; margin-bottom: 10px; }
@@ -45,7 +45,6 @@ def home():
     if os.path.exists("events.json"):
         with open("events.json") as f:
             events = json.load(f)
-            # Convert timestamp to readable format
             for e in events:
                 e['timestamp'] = datetime.fromtimestamp(e['timestamp']).strftime('%Y-%m-%d %H:%M:%S')
     else:
@@ -54,16 +53,17 @@ def home():
 
 @app.route("/stop")
 def stop():
-    global collector_process
-    if collector_process:
-        collector_process.terminate()
-        collector_process.wait()
-    os._exit(0)  # Terminate Flask and all processes
+    # Create stop file to signal collector
+    open(STOP_FILE, "w").close()
+    time.sleep(1)  # wait for collector to exit
+    if os.path.exists(STOP_FILE):
+        os.remove(STOP_FILE)
+    os._exit(0)  # terminate Flask
 
 if __name__ == "__main__":
-    # Start collector in the background
+    # Start collector in background
     collector_process = subprocess.Popen(["python3", "collector.py"])
-    time.sleep(2)  # Give collector time to generate logs
+    time.sleep(2)
 
     # Parse and analyze logs
     logs = parse_logs("logs/sample_logs.json")

@@ -1,142 +1,2952 @@
 [
   {
-    "timestamp": 1764193095.6051157,
+    "timestamp": 1764194607.100847,
     "src_ip": "192.168.1.15",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.60512,
+    "timestamp": 1764194607.100853,
     "src_ip": "192.168.1.15",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051219,
+    "timestamp": 1764194607.1008556,
     "src_ip": "192.168.1.15",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051223,
+    "timestamp": 1764194607.1008563,
     "src_ip": "192.168.1.15",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051235,
+    "timestamp": 1764194607.1008582,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051247,
+    "timestamp": 1764194607.1008596,
     "src_ip": "203.0.113.45",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051254,
+    "timestamp": 1764194607.1008606,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051269,
+    "timestamp": 1764194607.1008623,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051283,
+    "timestamp": 1764194607.1008642,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.605129,
+    "timestamp": 1764194607.1008651,
     "src_ip": "203.0.113.45",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.60513,
+    "timestamp": 1764194607.1008666,
     "src_ip": "203.0.113.45",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051316,
+    "timestamp": 1764194607.100868,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.605132,
+    "timestamp": 1764194607.100869,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051333,
+    "timestamp": 1764194607.1008704,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.605134,
+    "timestamp": 1764194607.1008713,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051352,
+    "timestamp": 1764194607.1008725,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051357,
+    "timestamp": 1764194607.1008735,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051366,
+    "timestamp": 1764194607.1008747,
     "src_ip": "203.0.113.45",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051373,
+    "timestamp": 1764194607.1008756,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.605138,
+    "timestamp": 1764194607.1008766,
     "src_ip": "203.0.113.45",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051388,
+    "timestamp": 1764194607.1008773,
     "src_ip": "203.0.113.45",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051404,
+    "timestamp": 1764194607.1008797,
     "src_ip": "192.168.1.15",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051445,
+    "timestamp": 1764194607.1008804,
     "src_ip": "192.168.1.15",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051478,
+    "timestamp": 1764194607.1008823,
     "src_ip": "10.0.0.5",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051483,
+    "timestamp": 1764194607.100883,
     "src_ip": "192.168.1.15",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051493,
+    "timestamp": 1764194607.100884,
     "src_ip": "198.51.100.77",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.60515,
+    "timestamp": 1764194607.1008847,
     "src_ip": "203.0.113.45",
     "alert": "Brute-force login attempt detected"
   },
   {
-    "timestamp": 1764193095.6051517,
+    "timestamp": 1764194607.100887,
     "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1008906,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1008914,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1008947,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.100896,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1008973,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1008985,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009045,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009054,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009061,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009085,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009147,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.100916,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.100917,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009176,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009183,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009197,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009207,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009214,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009228,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009245,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009276,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009285,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009302,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009321,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.100933,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009338,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.100935,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009362,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.100938,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009388,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009395,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009405,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009417,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009433,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009452,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009474,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009493,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10095,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009538,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009548,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.100956,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009567,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009574,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009855,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009867,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009881,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10099,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009912,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009934,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.100994,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.100995,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009965,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009984,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1009998,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010015,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010025,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010034,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010048,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010053,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010067,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010075,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010084,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010091,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10101,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101012,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101013,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010146,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010153,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010158,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010168,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010213,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010227,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010234,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010249,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010294,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10103,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101031,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101032,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010337,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010346,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101036,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010392,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10104,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010413,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010447,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010468,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010687,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010704,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010714,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010728,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010735,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010742,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010756,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010764,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010773,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010783,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010797,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010807,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010814,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101082,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010838,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010876,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010883,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010892,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010902,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010911,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010919,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010923,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101093,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010938,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010947,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101096,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010969,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1010978,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101123,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101124,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011248,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011257,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011264,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101127,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101128,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011302,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101131,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101132,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011336,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011343,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101135,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011364,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011372,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101138,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011388,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10114,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011412,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011455,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101147,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101148,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011515,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011524,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101156,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011574,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011584,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10116,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011608,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011624,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011655,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011674,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011682,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011689,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011696,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011715,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011724,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011732,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011746,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011755,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011775,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011782,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101179,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011798,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011813,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011817,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011825,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1011834,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101185,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101186,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101207,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012104,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101211,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012118,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101213,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101214,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012146,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012151,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012173,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012201,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012208,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012218,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012225,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012232,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012242,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012247,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012254,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012266,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012282,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012301,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101231,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012323,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012332,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012359,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012368,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101238,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012387,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012392,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012402,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012418,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012423,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101243,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012447,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101249,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10125,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012511,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012518,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101256,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012568,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012592,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101261,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012619,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012628,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101265,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101266,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101267,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012685,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101269,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012912,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012926,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101294,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012948,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012964,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101297,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1012976,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101299,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101303,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101304,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101306,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013072,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013088,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013105,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101312,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013162,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013172,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101318,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013186,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013207,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013215,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013222,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013227,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101327,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013281,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101329,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013298,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013327,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013336,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013343,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101335,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013367,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013377,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013386,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013405,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013417,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101343,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013446,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013458,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013465,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101348,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013486,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013494,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10135,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101351,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013517,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013525,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013563,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013582,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013598,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013615,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101363,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013663,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013675,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013684,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013691,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10137,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101371,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101372,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013727,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013741,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013753,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013768,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013794,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013813,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013823,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013834,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013846,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013854,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013865,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013873,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013885,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013901,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101391,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101392,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101393,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013944,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101395,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1013966,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014032,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014047,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014054,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014066,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101407,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014094,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014106,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101412,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101413,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014156,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014163,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014173,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014183,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101419,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10142,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014209,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014216,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014225,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014233,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014242,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014254,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014268,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014283,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014292,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014304,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014314,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101432,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014328,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014333,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101435,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014357,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014364,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10144,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014407,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014419,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014435,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014442,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014476,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014493,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10145,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014507,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014526,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014535,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014543,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014555,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014564,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101457,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014576,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014614,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014624,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101464,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101465,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014657,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014664,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014674,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014683,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014693,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014698,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101471,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101472,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014736,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014743,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014752,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014786,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014795,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014805,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101481,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014817,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014838,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014857,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014867,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014874,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101489,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014903,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014912,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014917,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014934,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101494,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101495,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1014962,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101499,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015003,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015022,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101503,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101504,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015048,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015058,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015067,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015077,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101509,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015103,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015112,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101512,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101513,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015143,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015172,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015205,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015215,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015227,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015234,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015248,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015294,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10153,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101531,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015325,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015332,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015341,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015353,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101536,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015368,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015375,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101538,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101539,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10154,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015408,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015422,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015432,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015506,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015527,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015537,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015542,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101555,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015565,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015575,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015606,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015615,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015627,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015677,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101569,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10157,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015704,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015713,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101572,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015732,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101574,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015747,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015778,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015792,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015809,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015823,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015842,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015851,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015859,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015875,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015897,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101591,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015918,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015925,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015935,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015944,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015952,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015959,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015966,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015987,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1015995,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016016,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016028,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101604,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016047,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016088,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10161,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016107,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016116,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016128,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101616,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016169,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016178,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016188,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016195,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016207,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016214,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016223,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016233,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101624,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016252,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101626,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016293,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016307,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016314,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016326,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016333,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016345,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016357,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016366,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016374,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016393,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016405,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016412,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016421,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016436,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016462,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101647,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016488,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016502,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016507,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016514,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101653,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016538,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016545,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016574,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016586,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016595,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016607,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016612,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016622,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016634,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016648,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016653,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016662,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016681,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016855,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101687,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016886,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016898,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016908,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016917,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016932,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101694,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101695,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016958,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1016965,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101697,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017013,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017022,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017027,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101704,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017053,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101706,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017091,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10171,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017108,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017115,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017127,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017137,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017156,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101716,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017165,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017172,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017184,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017199,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017215,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017225,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017244,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101725,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017263,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101727,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101728,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017287,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017296,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017303,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017313,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017325,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017334,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017349,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017382,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101739,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017408,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.101742,
+    "src_ip": "198.51.100.77",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017427,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017447,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017451,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017458,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017478,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017485,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017492,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.10175,
+    "src_ip": "10.0.0.5",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017518,
+    "src_ip": "192.168.1.15",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017542,
+    "src_ip": "203.0.113.45",
+    "alert": "Brute-force login attempt detected"
+  },
+  {
+    "timestamp": 1764194607.1017551,
+    "src_ip": "10.0.0.5",
     "alert": "Brute-force login attempt detected"
   }
 ]

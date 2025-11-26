@@ -3,11 +3,14 @@ import json, time, random, os
 
 IPS = ["192.168.1.15", "10.0.0.5", "203.0.113.45", "198.51.100.77"]
 EVENTS = ["login_success", "login_failed", "file_access", "network_scan"]
-
 os.makedirs("logs", exist_ok=True)
+STOP_FILE = "collector.stop"
 
-# Run continuously and append logs
 while True:
+    if os.path.exists(STOP_FILE):
+        print("Collector stopping...")
+        break
+
     log = {
         "timestamp": time.time(),
         "src_ip": random.choice(IPS),
