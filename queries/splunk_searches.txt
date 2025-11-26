@@ -1,8 +1,0 @@
-# Failed login volume by source
-index=main event="login_failure" | stats count by src_ip | sort -count
-
-# Brute force detection: > 10 failed logins in 5 minutes
-index=main event="login_failure" | bin _time span=5m | stats count by src_ip, _time | where count > 10
-
-# Privilege escalation attempts
-index=main event="privilege_escalation" | table _time, host, user, src_ip, detail
