@@ -15,7 +15,7 @@ dashboard_html = """
 <html>
 <head>
     <title>Mini SIEM Dashboard</title>
-    <meta http-equiv="refresh" content="5">
+    <meta http-equiv="refresh" content="1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         * {
@@ -232,7 +232,7 @@ dashboard_html = """
                 <div class="stat-label">Status</div>
             </div>
             <div class="stat-card">
-                <div class="stat-value">5s</div>
+                <div class="stat-value">Every Second</div>
                 <div class="stat-label">Refresh Rate</div>
             </div>
         </div>
