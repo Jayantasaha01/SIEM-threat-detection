@@ -15,7 +15,7 @@ dashboard_html = """
 <html>
 <head>
     <title>Mini SIEM Dashboard</title>
-    <meta http-equiv="refresh" content="5">
+    <meta http-equiv="refresh" content="1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         * {
@@ -232,7 +232,7 @@ dashboard_html = """
                 <div class="stat-label">Status</div>
             </div>
             <div class="stat-card">
-                <div class="stat-value">5s</div>
+                <div class="stat-value">1 Second</div>
                 <div class="stat-label">Refresh Rate</div>
             </div>
         </div>
@@ -271,13 +271,17 @@ dashboard_html = """
 
 @app.route("/")
 def home():
-    if os.path.exists("events.json"):
-        with open("events.json") as f:
-            events = json.load(f)
-            for e in events:
-                e['timestamp'] = datetime.fromtimestamp(e['timestamp']).strftime('%Y-%m-%d %H:%M:%S')
+    # Parse and analyze logs on each request for real-time updates
+    if os.path.exists("logs/sample_logs.json"):
+        logs = parse_logs("logs/sample_logs.json")
+        events = detect_threats(logs)
+        
+        # Format timestamps for display
+        for e in events:
+            e['timestamp'] = datetime.fromtimestamp(e['timestamp']).strftime('%Y-%m-%d %H:%M:%S')
     else:
         events = []
+    
     return render_template_string(dashboard_html, events=events)
 
 @app.route("/stop")
@@ -297,12 +301,6 @@ if __name__ == "__main__":
     collector_thread = threading.Thread(target=run_collector, daemon=True)
     collector_thread.start()
     time.sleep(2)  # allow collector to generate logs
-
-    # Parse and analyze logs
-    logs = parse_logs("logs/sample_logs.json")
-    events = detect_threats(logs)
-    with open("events.json", "w") as f:
-        json.dump(events, f, indent=2)
 
     # Run Flask dashboard
     app.run(host="0.0.0.0", port=8080, debug=True)
