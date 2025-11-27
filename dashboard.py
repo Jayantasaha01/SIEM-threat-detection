@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 from flask import Flask, render_template_string
-import json, os, time, threading
+import json, os, time, threading, webbrowser
 from parser import parse_logs
 from analyzer import detect_threats
 from datetime import datetime
